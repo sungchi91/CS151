@@ -1,0 +1,229 @@
+     March 2015
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 [13] 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+Loading previous event(s)...
+This first run
+
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+Title: date (MM/DD/YYYY): Starting time (hh:mm): Ending time (hh:mm) [Press Enter [N] if not applicable]: 
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+Title: date (MM/DD/YYYY): Starting time (hh:mm): Ending time (hh:mm) [Press Enter [N] if not applicable]: 
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+Title: date (MM/DD/YYYY): Starting time (hh:mm): Ending time (hh:mm) [Press Enter [N] if not applicable]: 
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+[D]ay view or [M]onth view ? 
+Friday, March 13, 2015
+Study Group 14:00 - 16:00
+HW Due 23:59
+[P]revious or [N]ext or [M]ain menu ? 
+Saturday, March 14, 2015
+there is no event exist
+[P]revious or [N]ext or [M]ain menu ? 
+Sunday, March 15, 2015
+there is no event exist
+[P]revious or [N]ext or [M]ain menu ? 
+Monday, March 16, 2015
+there is no event exist
+[P]revious or [N]ext or [M]ain menu ? 
+Tuesday, March 17, 2015
+Midterm 16:00 - 17:15
+[P]revious or [N]ext or [M]ain menu ? 
+Monday, March 16, 2015
+there is no event exist
+[P]revious or [N]ext or [M]ain menu ? 
+Sunday, March 15, 2015
+there is no event exist
+[P]revious or [N]ext or [M]ain menu ? 
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+[D]ay view or [M]onth view ? 
+     March 2015
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13* 14 
+15 16 17* 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+[P]revious or [N]ext or [M]ain menu ? 
+     Feb 2015
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13 14 
+15 16 17 18 19 20 21 
+22 23 24 25 26 27 28 
+                     
+                     
+
+[P]revious or [N]ext or [M]ain menu ? 
+     March 2015
+Su Mo Tu We Th Fr Sa
+ 1  2  3  4  5  6  7 
+ 8  9 10 11 12 13* 14 
+15 16 17* 18 19 20 21 
+22 23 24 25 26 27 28 
+29 30 31             
+                     
+
+[P]revious or [N]ext or [M]ain menu ? 
+     Apr 2015
+Su Mo Tu We Th Fr Sa
+          1  2  3  4 
+ 5  6  7  8  9 10 11 
+12 13 14 15 16 17 18 
+19 20 21 22 23 24 25 
+26 27 28 29 30       
+                     
+
+[P]revious or [N]ext or [M]ain menu ? 
+
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+date (MM/DD/YYYY): 
+Tuesday, March 17, 2015
+Midterm 16:00 - 17:15
+
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+2015 Friday, March 13 14:00 - 16:00 Study Group
+2015 Friday, March 13 23:59 HW Due
+2015 Tuesday, March 17 16:00 - 17:15 Midterm
+
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+Title: date (MM/DD/YYYY): Starting time (hh:mm): Ending time (hh:mm) [Press Enter [N] if not applicable]: 
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+Title: date (MM/DD/YYYY): Starting time (hh:mm): Ending time (hh:mm) [Press Enter [N] if not applicable]: 
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+2015 Friday, March 13 14:00 - 16:00 Study Group
+2015 Friday, March 13 23:59 HW Due
+2015 Tuesday, March 17 16:00 - 17:15 Midterm
+2015 Wednesday, May 20 15:00 Summer Starts
+2016 Friday, Jan 1 00:00 New Year
+
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+[S]elected or [A]ll ? Enter the date (MM/DD/YYYY): All the Events on selected date has been deleted
+
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+2015 Tuesday, March 17 16:00 - 17:15 Midterm
+2015 Wednesday, May 20 15:00 Summer Starts
+2016 Friday, Jan 1 00:00 New Year
+
+
+***Main Menu***
+[L]oad
+[V]iew by
+[C]reate
+[G]o to
+[E]vent list
+[D]elete
+[Q]uit
+Saving Data...events.txt
+Exiting program...
+Thank you for Using My Calendar!
